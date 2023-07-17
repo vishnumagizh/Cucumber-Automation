@@ -1,10 +1,11 @@
 package com.helper;
 
 import java.io.File;
-import java.io.FileInputStream;
+import java.io.FileInputStream; 
 import java.io.IOException;
 import java.util.Properties;
 
+// Header config
 public class Configurationreader {
 	Properties prop;
 	public Configurationreader() throws IOException {
